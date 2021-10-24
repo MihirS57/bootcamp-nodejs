@@ -1,0 +1,30 @@
+[
+    {
+        "title":"Was worth the investment",
+        "text":"Really loved the course, learned a lot",
+        "rating":7,
+        "bootcamp": "60d7352984aa7b24a0fa264d",
+        "user": "60d7352b84aa7b24a0fa2658"
+    },
+    {
+        "title":"Not worth the investment",
+        "text":"Really hated the course, not learnt a lot",
+        "rating":4,
+        "bootcamp": "60d7352984aa7b24a0fa264e",
+        "user": "60d7352b84aa7b24a0fa265b"
+    },
+    {
+        "title":"Somewhat worth the investment",
+        "text":"Course is descent enough",
+        "rating":6,
+        "bootcamp": "60d7352984aa7b24a0fa264f",
+        "user": "60d7352b84aa7b24a0fa265a"
+    },
+    {
+        "title":"Loved the course",
+        "text":"Every bit of this is worth it",
+        "rating":9,
+        "bootcamp": "60d7352984aa7b24a0fa264d",
+        "user": "60d7352b84aa7b24a0fa2659"
+    }
+]

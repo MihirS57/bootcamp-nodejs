@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Admin account",
+        "email": "admin@gmail.com",
+        "role": "admin",
+        "password": "password123"
+    },
+    {
+        "name": "Publisher account",
+        "email": "publisher@gmail.com",
+        "role": "publisher",
+        "password": "password123"
+    },
+    {
+        "name": "User account",
+        "email": "user@gmail.com",
+        "role": "user",
+        "password": "password123"
+    },
+    {
+        "name": "Mihir Shah",
+        "email": "mihir@gmail.com",
+        "role": "user",
+        "password": "password123"
+    },
+    {
+        "name": "Prerna Shah",
+        "email": "prerna@gmail.com",
+        "role": "user",
+        "password": "password123"
+    },
+    {
+        "name": "Nirmita Shah",
+        "email": "nirmita@gmail.com",
+        "role": "publisher",
+        "password": "password123"
+    },
+    {
+        "name": "Haresh Shah",
+        "email": "haresh@gmail.com",
+        "role": "publisher",
+        "password": "password123"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title":"Front End Web Development",
+        "description": "This course will provide you with all the essentials to become a successful frontend web developer.",
+        "weeks":8,
+        "tuition":8000,
+        "minimumSkill":"Beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp":"60cb27fa41997a3d2cb89317"
+    },
+    {
+        "title":"Full Stack Web Development",
+        "description": "This course will provide you with all the essentials to become a successful full stack web developer.",
+        "weeks":12,
+        "tuition":10000,
+        "minimumSkill":"Intermediate",
+        "scholarshipsAvailable": false,
+        "bootcamp": "60cb27fa41997a3d2cb89318"
+    },
+    {
+        "title":"Web Design & Development",
+        "description": "This course will provide you with all the essentials to become a successful web designer & developer.",
+        "weeks":10,
+        "tuition":12000,
+        "minimumSkill":"Beginner",
+        "scholarshipsAvailable": false,
+        "bootcamp":"60cb27fa41997a3d2cb89319"
+    },
+    {
+        "title":"Data Science Program",
+        "description": "This course will provide you with all the essentials to become a successful data scientist.",
+        "weeks":10,
+        "tuition":12000,
+        "minimumSkill":"Intermediate",
+        "scholarshipsAvailable": false,
+        "bootcamp": "60cb27fa41997a3d2cb8931a"
+    }
+]
